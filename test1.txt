@@ -1,3 +1,4 @@
 Hello Git
- 12345
+ 123456
+
 It's new line.
